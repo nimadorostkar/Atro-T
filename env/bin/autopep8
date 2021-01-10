@@ -1,4 +1,4 @@
-#!/Users/nima/github/django_dashboard/env/bin/python3
+#!/Users/nima/github/Atro-T/env/bin/python3
 # EASY-INSTALL-ENTRY-SCRIPT: 'autopep8==1.5.4','console_scripts','autopep8'
 __requires__ = 'autopep8==1.5.4'
 import re

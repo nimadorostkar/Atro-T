@@ -1,4 +1,4 @@
-#!/Users/nima/github/django_dashboard/env/bin/python3
+#!/Users/nima/github/Atro-T/env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
